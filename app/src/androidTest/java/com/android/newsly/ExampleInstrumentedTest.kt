@@ -1,4 +1,4 @@
-package com.android.newsly_mvvm_architecture
+package com.android.newsly
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

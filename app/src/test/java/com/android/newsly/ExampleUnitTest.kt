@@ -1,4 +1,4 @@
-package com.android.newsly_mvvm_architecture
+package com.android.newsly
 
 import org.junit.Test
 
